@@ -74,5 +74,6 @@
         UseEmptyString = 88,
         RemoveRedundantElseClause = 89,
         ChangeAllToAny = 92,
+        ConsoleWriteLine = 95,
     }
 }
